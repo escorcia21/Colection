@@ -1,4 +1,4 @@
-# Colecction
+# Collection
 ![flujo de trabajo de ejemplo](https://github.com/escorcia21/Colection/actions/workflows/main.yml/badge.svg)
 
 
